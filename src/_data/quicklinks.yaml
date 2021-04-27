@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Open Lab Newcastle University
+    url: "https://openlab.ncl.ac.uk"
+    desc: We offer a new perspective on interaction design and ubiquitous computing.
+  - title: Sociality Coop
+    url: "https://sociality.coop/"
+    desc: An Athens-based Cooperative working on digital technologies.
+  - title: The Angelou Centre
+    url: "https://angelou-centre.org.uk/"
+    desc: Holistic women-only services for black and minoritised women across the Newcastle Upon Tyne, UK.
+  - title: Union of Womens Associations of Herakleion
+    url: "https://kakopoiisi.gr/"
+    desc: An NGO, operating at Heraklion Municipality, Crete in Greece.
