@@ -1,4 +1,4 @@
-# DeSIC Webite
+# DeSIC Website
 
 This is the source code of the website for project DeSIC.
 
