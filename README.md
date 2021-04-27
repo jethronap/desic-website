@@ -5,6 +5,6 @@
 This is the source code of the website for project DeSIC.
 
 
-<sup>Used the Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwind CSS
+<sup>Used the Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwind CSS</sup>
 
-Authored by Surjith S M ( [@surjithctly](https://surjithctly.in/) )</sup>
+<sup>Authored by Surjith S M ( [@surjithctly](https://surjithctly.in/) )</sup>
