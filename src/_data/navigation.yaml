@@ -1,9 +1,9 @@
 ---
 items:
-  - text: Home
-    url: "/"
-  - text: About
-    url: "/about"
+  - text: The Team
+    url: "/team"
+  - text: The Project
+    url: "/project"
   - text: Contact
     url: "/contact"
   - text: Blog
