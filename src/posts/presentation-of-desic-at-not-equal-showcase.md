@@ -1,10 +1,10 @@
 ---
-title: Presentation of DeSIC at Not Equal Showcase
+title: Presentation of DeSIC at Not-Equal Showcase
 description: Showcasing the DeSIC idea.
 author: DeSIC team
 date: 2020-11-20T21:27:51.698Z
 tags:
-  - config.yml
+  - created
 ---
 The DeSIC research team presented the project to the Not-Equal Showcase.
 
