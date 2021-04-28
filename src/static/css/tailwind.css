@@ -6,10 +6,15 @@
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
+  color: #26bfd0;
 }
 
 h3 {
   @apply text-2xl font-bold mb-3;
+}
+
+body {
+  background-color: rgb(44, 22, 39);
 }
 
 /* Syntax Highlighting*/

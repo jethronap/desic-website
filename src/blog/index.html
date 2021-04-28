@@ -7,7 +7,7 @@ layout: blog
 
     {% for post in postslist | reverse %}
         <article class="my-8">
-            <h2 class="font-bold text-3xl text-gray-900 mb-2">
+            <h2 class="font-bold text-3xl text-gray-900 mb-2" style="color: #26bfd0;">
                 <a href="{{ post.url | url }}">
                     {% if post.data.title %}
                         {{ post.data.title }}
