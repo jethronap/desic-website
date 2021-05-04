@@ -4,7 +4,7 @@ description: starting...
 author: DeSIC team
 date: 2021-01-05T21:30:20.422Z
 tags:
-  - config.yml
+  - created
 ---
 The DeSIC is on the go!
 
