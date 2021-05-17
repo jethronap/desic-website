@@ -1,6 +1,6 @@
 ---
 title: DeSIC is on the go!
-description: starting...
+description: starting the endeavour
 author: DeSIC team
 date: 2021-01-05T21:30:20.422Z
 tags:
